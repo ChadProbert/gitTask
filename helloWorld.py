@@ -1,2 +1,1 @@
-name = input("Please enter your name: ")
-print(f"Hello, {name}!")
+print("Git is awesome!")
